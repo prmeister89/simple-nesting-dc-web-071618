@@ -90,7 +90,7 @@ def adding_matz
     :yukihiro_matsumoto => {
       :known_for => "Ruby",
         :languages => ["LISP", "C"]
-      }][0]
+      }] = [0]
   
 end
 
